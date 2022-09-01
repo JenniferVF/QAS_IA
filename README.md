@@ -3,10 +3,8 @@
 
 ### Ejecución del prototipo:
 
-El archivo deniminado "dataset" es el corpus utilizado.
+El archivo denominado "dataset" es el corpus utilizado.
 
-Diríjase a Google Colaboratory. Elija la opción "Subir" y seleccione el archivo
-ubicado en esta carpeta denominado "CR_RoBERTa".
+Diríjase a Google Colaboratory. Elija la opción "Subir" y seleccione el archivo ubicado en esta carpeta denominado "CR_RoBERTa".
 
-La carpeta "Scripts" corresponde al código utilizado para la limpieza del set
-de datos.
+La carpeta "Scripts" corresponde al código utilizado para la limpieza del set de datos.
